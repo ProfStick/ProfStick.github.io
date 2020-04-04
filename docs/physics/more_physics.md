@@ -1,5 +1,5 @@
-<img src="/media/prof_stick_g2u.png" width="200">
+# More Physics <img align="right" src="/media/prof_stick_g2u.png" width="200">
 
-# More Physics
+## subheading
 
 not really just pretending
