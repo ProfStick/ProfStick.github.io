@@ -1,3 +1,11 @@
+---
+layout: default
+title: Physiks
+nav_order: 2
+has_children: true
+---
+
+
 # Physics <img align="right" src="/media/prof_stick_g2u.png" width="200">
 
 ---
