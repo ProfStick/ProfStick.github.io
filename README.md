@@ -2,4 +2,4 @@
 
 # Welcome!
 
-[Another md doc](./docs/another.md)
+Read the [physics latex cookbook](./docs/physics/physics_latex_cookbook.html)
