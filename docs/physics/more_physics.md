@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 <a href="https://profstick.github.io">
-  <img align="right" alt="Prof Stick's G2U" src="/media/prof_stick_g2u.png" width="150">
+  <img align="right" alt="Prof Stick's G2U" src="/media/prof_stick_g2u_long.png" width="300">
 </a>
 
 # More Physics
