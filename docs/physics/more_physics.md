@@ -1,5 +1,3 @@
-<img src="/media/prof_stick_g2u.png" width="200">
-
 # More Physics
 
 <img src="https://github.com/ProfStick/ProfStick.github.io/blob/master/media/prof_stick_g2u.png" width="200">
