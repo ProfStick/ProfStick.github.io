@@ -1,6 +1,6 @@
 # Physics
 
-<img src="/media/prof_stick_logo.png" width="80">
+<img src="/media/prof_stick_g2u.png" width="200">
 
 ### Help with those pesky equations:
 
