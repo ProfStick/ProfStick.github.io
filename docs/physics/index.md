@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Physiks
+title: Physics
 nav_order: 2
 has_children: true
 ---
@@ -10,6 +10,13 @@ has_children: true
 
 ---
 
-### Help with those pesky equations:
+## Entropic list of resources
 
-* [Physics LaTeX Cookbook](/docs/physics/physics_latex_cookbook.html) for the NSW Stage 6 curriculum
+* Kinematics
+* Dynamics
+* Waves
+* Thermodynamics
+* Electromagnetism
+* Relativity
+* Nuclear & Quantum
+* [Stuff that hurts my brain to categorise](docs/physics/physics_stuff.md)
