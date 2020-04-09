@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 header {
-    width:270px;
+    width:200px;
 }
