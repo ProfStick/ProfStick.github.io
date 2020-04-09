@@ -1,0 +1,76 @@
+@import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js";
+/* @import"https://gitcdn.xyz/repo/goessner/mdmath/master/css/texmath.css"; */
+/* @import "https://gitcdn.xyz/repo/goessner/mdmath/master/css/vscode-texmath.css"; */
+
+body { background-color: #edf8ef;}
+
+table th, table td {
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(5, 70, 10);
+    padding: 10px
+}
+
+table th {background-color: #f2f2f2;}
+
+table tr:nth-child(even) {background-color: #f2f2f2;}
+
+table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+footer {
+    border-top: 1px solid #05460a;
+    font-size: 0.67em;
+}
+
+.left_menu {
+    color: #05460a;
+    font-size: 0.95em;
+    font-weight: 600;
+}
+
+.licence {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.centre {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* align KaTeX font-size to surrounding text */
+.katex { font-size: 1em; }
+/* supress effect of display formulas with eqno having bigger margin */
+.katex-display { margin: 0; }
+
+/* make sure equations don't break over lines */
+eq { display: inline-block; }
+
+/* don't know what the next line is supposed to do */
+/* eqn { display: block; margin: 0; } */
+
+/* the following three sections ensure that equations with numbers are on one line and centred  */
+section.eqno {
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    align-items: center;   
+}
+
+section.eqno > eqn {
+    width: 100%;
+    margin-left: 3em;
+}
+
+section.eqno > span {
+    width:3em;
+    text-align:right;
+}
