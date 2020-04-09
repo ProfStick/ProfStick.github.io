@@ -10,4 +10,4 @@ has_children: true
 
 ---
 
-[Derivation of Kinetic Energy equation]("docs/physics/physics_derivation_of_K.html")
+[Derivation of Kinetic Energy equation](docs/physics/physics_derivation_of_K.html)

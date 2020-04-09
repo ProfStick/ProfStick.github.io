@@ -13,4 +13,3 @@ has_children: true
 All the physics stuff that is too difficult to categorise!
 
 * [Latex Cookbook for the NSW Stage 6 Physics curriculum](docs/physics/physics_latex_cookbook_index.md)
-
