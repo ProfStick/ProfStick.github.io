@@ -36,10 +36,6 @@ footer {
   margin-right:auto;
 }
 
-.logo_wrapper {
-  max-width: 500px;
-}
-
 @media screen and (min-width: 768px) {
   .wrapper {
     display: grid;
