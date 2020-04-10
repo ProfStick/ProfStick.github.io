@@ -22,6 +22,14 @@ body {
   background-color: #e6eee8;
 }
 
+.licence {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left:auto; 
+  margin-right:auto;
+}
+
 @media screen and (min-width: 768px) {
   .wrapper {
     display: grid;
