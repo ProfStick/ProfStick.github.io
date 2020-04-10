@@ -12,9 +12,17 @@ body {
   background-color: #eee;
 }
 
+header{
+  image-resolution: ;
+}
+
 footer {
   font-size: 80%;
   background-color: lightseagreen;
+}
+
+.img_wrapper{
+  max-width: 80%;
 }
 
 .wrapper, footer {
@@ -41,5 +49,9 @@ footer {
     display: grid;
     grid-template-columns: 1fr 3fr;
     column-gap: 5%;
+  }
+
+  .img_wrapper{
+    max-width: 100%;
   }
 }
