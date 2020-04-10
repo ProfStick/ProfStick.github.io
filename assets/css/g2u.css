@@ -15,6 +15,7 @@ div.wrapper {
 header, footer {
     background-color: #91e0ee;
     width: 150px;
+    padding: 0;
 }
 
 section {
