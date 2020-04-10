@@ -1,1 +1,6 @@
-body { background-color: #edf8ef;}
+/* body { background-color: #e6eee8;} */
+body { background-color: #91e0ee;}
+
+.wrapper {
+    widows: 960px;
+}
