@@ -25,6 +25,7 @@ body {
 }
 
 .licence {
+  background-color: lightpink;
   display: flex;
   flex-direction: column;
   align-items: center;
