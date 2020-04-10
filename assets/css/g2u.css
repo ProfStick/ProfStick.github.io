@@ -1,6 +1,19 @@
-body { background-color: #bae5bd;}
+body { background-color: #edf8ef;}
 
 .wrapper {
-    width:1200px;
+    width:900px;
     margin:0 auto;
+  }
+
+  header {
+    width:200px;
+    float:left;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
+  }
+
+  section {
+    width:600px;
+    float:right;
+    padding-bottom:50px;
   }
