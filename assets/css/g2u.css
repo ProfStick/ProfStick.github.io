@@ -1,5 +1,4 @@
 body { background-color: #e6eee8;}
-/* body { background-color: #91e0ee;} */
 
 /* use menu on the side format until screen width < 768px */
 
@@ -8,7 +7,6 @@ img {
 }
 
 body {
-  /* font: 1.2em Helvetica, Arial, sans-serif; */
   margin: 20px;
   padding: 0;
   background-color: #eee;
@@ -38,14 +36,14 @@ footer {
   margin-right:auto;
 }
 
+.logo_wrapper {
+  max-width: 500px;
+}
+
 @media screen and (min-width: 768px) {
   .wrapper {
     display: grid;
     grid-template-columns: 1fr 3fr;
     column-gap: 5%;
   }
-
-  /* footer {
-    background-color: lightsalmon;
-  } */
 }
