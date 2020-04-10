@@ -1,29 +1,28 @@
 body { background-color: #e6eee8;}
 /* body { background-color: #91e0ee;} */
 
-/* use menu on the side format until screen width < 720px */
+/* use menu on the side format until screen width < 768px */
 
 img {
   max-width: 100%;
 }
 
 body {
-  font: 1.2em Helvetica, Arial, sans-serif;
+  /* font: 1.2em Helvetica, Arial, sans-serif; */
   margin: 20px;
   padding: 0;
   background-color: #eee;
 }
 .wrapper {
-  max-width: 960px;
+  max-width: 1200px;
   margin: 2em auto;
 }
 
-.col1,
-.col2 {
-  background-color: #fff;
+.col1, .col2 {
+  background-color: #e6eee8;
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
   .wrapper {
     display: grid;
     grid-template-columns: 1fr 3fr;

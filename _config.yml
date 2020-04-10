@@ -1,10 +1,11 @@
 title: "Prof Stick's Guide to the Universe"
 
 # remote_theme: pmarsceill/just-the-docs
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal # https://github.com/pages-themes/minimal
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/media/prof_stick_g2u_long.png"
+logo: "/media/prof_stick_g2u_long_trans.png"
+show_downloads: "false"
 
 # Enable or disable the site search
 # Supports true (default) or false
