@@ -17,6 +17,7 @@ body {
 footer {
   font-size: 80%;
   margin: 2em auto;
+  background-color: lightseagreen;
 }
 
 .wrapper {
