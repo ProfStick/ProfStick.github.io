@@ -2,6 +2,16 @@
 
 # Welcome!
 
+## THis site isn't ready!!!
+
+### I am still playinig around with style sheets and stuff
+
+That's why the colours are aso awful - so I can see the different blocks
+
+so go way and come back later
+
+---
+
 This site is just an idiosyncratic collection of resources for software and science, particularly physics, I have made over the years.
 
 It is also a testament to entropy so, while I will endeavour to keep it up to date and reasonably well indexed, I can't make promises.
