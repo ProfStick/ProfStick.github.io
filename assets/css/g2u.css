@@ -18,6 +18,24 @@ body { background-color: #e6eee8;}
         float: right;
         padding: 25px;
     }
+}
 
+@media print, screen and (min-width: 720px) {
+
+    div.wrapper {
+        width: 700px;
+        margin: 0 auto;
+    }
+
+    header, footer {
+        background-color: #919fee;
+        width: 150px;
+    }
+
+    section {
+        width: 500px;
+        float: right;
+        padding: 25px;
+    }
 }
 
