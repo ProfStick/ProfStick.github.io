@@ -1,9 +1,9 @@
-/* body { background-color: #e6eee8;} */
-body { background-color: #91e0ee;}
+body { background-color: #e6eee8;}
+/* body { background-color: #91e0ee;} */
 
 .wrapper {
     /* widows: 860px; */
-    widows: 960px;
+    width: 960px;
 }
 
 header {
@@ -13,5 +13,5 @@ header {
 
 section {
     /* width:500px; */
-    width:90%;
+    /* width:90%; */
 }
