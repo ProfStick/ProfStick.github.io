@@ -22,8 +22,9 @@ footer {
 }
 
 .img_wrapper{
-  max-width: 80%;
+  max-width: 400px;
   background-color: cadetblue;
+  margin: 0 auto;
 }
 
 .wrapper, footer {
