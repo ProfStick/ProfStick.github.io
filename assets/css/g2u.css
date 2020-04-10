@@ -1,19 +1,20 @@
 body { background-color: #edf8ef;}
 
 .wrapper {
-    width:900px;
+    width:860px;
     margin:0 auto;
-  }
+}
 
-  header {
-    width:200px;
-    float:left;
-    position:fixed;
-    -webkit-font-smoothing:subpixel-antialiased;
-  }
+header {
+width:270px;
+float:left;
+position:fixed;
+-webkit-font-smoothing:subpixel-antialiased;
+}
 
-  section {
-    width:600px;
-    float:right;
-    padding-bottom:50px;
-  }
+section {
+width:500px;
+float:right;
+padding-bottom:50px;
+}
+
