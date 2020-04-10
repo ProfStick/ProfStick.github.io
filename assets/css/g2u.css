@@ -3,9 +3,20 @@ body { background-color: #e6eee8;}
 
 @media print, screen and (min-width: 960px) {
 
+    div.wrapper {
+        width: 920px;
+        margin: 0 auto;
+    }
+
     header, footer {
         background-color: #91e0ee;
         width: 150px;
+    }
+
+    section {
+        width: 720px;
+        float: right;
+        padding: 25px;
     }
 
 }
