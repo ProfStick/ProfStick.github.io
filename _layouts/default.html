@@ -17,9 +17,7 @@
         <header>
         
           {% if site.logo %}
-            <span class="logo_wrapper">
-              <img style="max-width: 400px;" src="{{site.logo | relative_url}}" alt="Logo" />
-            </span>
+            <img style="max-width: 400px;" src="{{site.logo | relative_url}}" alt="Logo" />
           {% endif %}
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
