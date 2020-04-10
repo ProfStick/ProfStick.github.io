@@ -1,5 +1,5 @@
 body { background-color: #e6eee8;}
-/* body { background-color: #91e0ee;} */
+body { background-color: #91e0ee;}
 
 .wrapper {
     /* widows: 860px; */
@@ -13,5 +13,5 @@ header {
 
 section {
     /* width:500px; */
-    width:600%;
+    width:600px;
 }
