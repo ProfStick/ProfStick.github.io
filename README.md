@@ -6,11 +6,13 @@
 
 ### I am still playing around with style sheets and stuff
 
-That's why the colours are aso awful - so I can see the different blocks
+That's why the colours are so awful - so I can see the different blocks
 
 so go way and come back later
 
 ---
+
+While I am playing with styles and fonts, because this is a technical site, it is important that I choose a font where I is distinguishable from l.
 
 This site is just an idiosyncratic collection of resources for software and science, particularly physics, I have made over the years.
 
