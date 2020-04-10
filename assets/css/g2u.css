@@ -1,4 +1,7 @@
-body { background-color: #e6eee8;}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #e6eee8;
+}
 
 /* use menu on the side format until screen width < 768px */
 
