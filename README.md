@@ -2,9 +2,9 @@
 
 # Welcome!
 
-## THis site isn't ready!!!
+## This site isn't ready!!!
 
-### I am still playinig around with style sheets and stuff
+### I am still playing around with style sheets and stuff
 
 That's why the colours are aso awful - so I can see the different blocks
 
