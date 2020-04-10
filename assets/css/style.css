@@ -3,10 +3,11 @@
 
 @import "{{ site.theme }}";
 
-body { background-color: #edf8ef;}
+body { background-color: #766bd6;}
 
 header {
     width:100px;
+    background-color: darkred;
 }
 
 .wrapper {
