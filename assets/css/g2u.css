@@ -1,24 +1,7 @@
 body { background-color: #e6eee8;}
 /* body { background-color: #91e0ee;} */
 
-@media print, screen and (min-width: 960px) {
-
-    div.wrapper {
-        width: 920px;
-        margin: 0 auto;
-    }
-
-    header, footer {
-        background-color: #91e0ee;
-        width: 150px;
-    }
-
-    section {
-        width: 720px;
-        float: right;
-        padding: 25px;
-    }
-}
+/* use menu on the side format until screen width < 720px */
 
 @media print, screen and (min-width: 720px) {
 
@@ -39,3 +22,21 @@ body { background-color: #e6eee8;}
     }
 }
 
+@media print, screen and (min-width: 960px) {
+
+    div.wrapper {
+        width: 920px;
+        margin: 0 auto;
+    }
+
+    header, footer {
+        background-color: #91e0ee;
+        width: 150px;
+    }
+
+    section {
+        width: 720px;
+        float: right;
+        padding: 25px;
+    }
+}
