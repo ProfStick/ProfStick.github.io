@@ -15,10 +15,12 @@
     <div class="wrapper">
       <div class="col1">
         <header>
-        
+          
+          <div class="img_wrapper"></div>
           {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" />
           {% endif %}
+          </div>
 
           <p>{{ site.description | default: site.github.project_tagline }}</p>
 
