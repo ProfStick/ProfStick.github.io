@@ -1,1 +1,6 @@
-body { background-color: #1d7fb8;}
+body { background-color: #bae5bd;}
+
+.wrapper {
+    width:1200px;
+    margin:0 auto;
+  }
