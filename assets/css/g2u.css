@@ -29,6 +29,11 @@ section {
       width:auto;
       margin:0;
     }
+
+    header, footer {
+        background-color: #eec391;
+        /* width: 150px; */
+    }
   
     header, section, footer {
       float:none;
