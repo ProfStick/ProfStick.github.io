@@ -52,7 +52,7 @@ footer {
     column-gap: 5%;
   }
 
-  .img_wrapper{
+  div.img_wrapper{
     max-width: 100%;
   }
 }
