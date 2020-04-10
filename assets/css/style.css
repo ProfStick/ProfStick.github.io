@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 header {
-    width:200px;
+    width:100px;
 }
 
 .wrapper {
@@ -16,5 +16,5 @@ section {
     width:700px;
     float:right;
     padding-bottom:50px;
-  }
+}
   
