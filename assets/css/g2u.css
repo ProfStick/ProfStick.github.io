@@ -1,5 +1,5 @@
-/* body { background-color: #e6eee8;} */
-body { background-color: #91e0ee;}
+body { background-color: #e6eee8;}
+/* body { background-color: #91e0ee;} */
 
 .wrapper {
     /* widows: 860px; */
@@ -9,5 +9,9 @@ body { background-color: #91e0ee;}
 header {
     /* width:270px; */
     width:200px;
+}
 
+section {
+    /* width:500px; */
+    width:570px;
 }
