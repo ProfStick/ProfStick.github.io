@@ -47,7 +47,7 @@ footer {
   }
 
   footer {
-    display: contents;
+    /* display: contents; */
     background-color: lightsalmon;
   }
 }
