@@ -18,7 +18,9 @@ footer {
   display: contents;
   font-size: 80%;
   max-width: 1200px;
-  margin: 2em auto;}
+  margin: 2em auto;
+  background-color: #e6eee8;
+}
 
 .wrapper {
   max-width: 1200px;
