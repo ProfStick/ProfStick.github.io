@@ -1,7 +1,7 @@
 @import "{{ site.theme }}";
 
 body {
-  /* font-family: Tahoma, Helvetica, Verdana, Geneva, sans-serif; */
+  font-family: Verdana, Tahoma, Droid Sans Mono, Helvetica, Geneva, sans-serif;
   background-color: #e6eee8;
 }
 
