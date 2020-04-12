@@ -1,5 +1,3 @@
-@import "{{ site.theme }}";
-
 body {
   font-family: Verdana, Tahoma, Droid Sans Mono, Helvetica, Geneva, sans-serif;
   background-color: #e6eee8;
@@ -14,7 +12,7 @@ img {
 body {
   margin: 20px;
   padding: 0;
-  background-color: #eee;
+  /* background-color: #eee; */
 }
 
 header{
@@ -23,12 +21,12 @@ header{
 
 footer {
   font-size: 80%;
-  background-color: lightseagreen;
+  /* background-color: lightseagreen; */
 }
 
 .img_wrapper{
   max-width: 400px;
-  background-color: cadetblue;
+  /* background-color: cadetblue; */
   margin: 0 auto;
 }
 
@@ -39,11 +37,11 @@ footer {
 
 .col1,
 .col2 {
-  background-color: #e6eee8;
+  /* background-color: #e6eee8; */
 }
 
 .licence {
-  background-color: lightblue;
+  /* background-color: lightblue; */
   display: flex;
   flex-direction: column;
   align-items: center;
