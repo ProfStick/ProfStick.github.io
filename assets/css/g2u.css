@@ -1,6 +1,7 @@
 body {
   font-family: Verdana, Tahoma, Droid Sans Mono, Helvetica, Geneva, sans-serif;
   background-color: #e6eee8;
+  color: #05460a;
 }
 
 /* use menu on the side format until screen width < 768px */
