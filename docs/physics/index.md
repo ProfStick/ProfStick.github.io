@@ -20,3 +20,7 @@ has_children: true
 * Relativity
 * Nuclear & Quantum
 * [Stuff that hurts my brain to categorise](docs/physics/physics_stuff.md)
+
+* Special Special Relativity
+  * Prequel
+
