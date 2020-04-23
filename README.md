@@ -18,7 +18,7 @@ This site is just an idiosyncratic collection of resources for software and scie
 
 It is also a testament to entropy so, while I will endeavour to keep it up to date and reasonably well indexed, I can't make promises.
 
-Now that you are here feel free to look around using the index on the left.
+Now that you are here feel free to look around using the index on the left - except that I haven't done the index yet so try going straight to the [Physics page](/docs/physics/index.md)
 
 In the future I hope to link all the resources to outcomes in the NSW School syllabus, but I also hope to build an inverted pendulum and learn to ride a unicycle, so don't get your hopes up.
 
