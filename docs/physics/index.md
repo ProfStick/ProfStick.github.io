@@ -22,5 +22,5 @@ has_children: true
 * [Stuff that hurts my brain to categorise](docs/physics/physics_stuff.md)
 
 * Special Special Relativity
-  * Prequel
+  * [Prequel](docs/physics/special_special_relativity/ssr_00_prequel.html)
 
