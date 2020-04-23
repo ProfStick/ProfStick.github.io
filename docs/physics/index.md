@@ -19,8 +19,8 @@ has_children: true
 * Electromagnetism
 * Relativity
 * Nuclear & Quantum
-* [Stuff that hurts my brain to categorise](docs/physics/physics_stuff.md)
+* [Stuff that hurts my brain to categorise](/docs/physics/physics_stuff.md)
 
 * Special Special Relativity
-  * [Prequel](docs/physics/special_special_relativity/ssr_00_prequel.html)
+  * [Prequel](/docs/physics/special_special_relativity/ssr_00_prequel.html)
 
